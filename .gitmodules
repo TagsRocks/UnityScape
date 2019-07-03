@@ -1,0 +1,3 @@
+[submodule "references/UnityRSCLib"]
+	path = references/UnityRSCLib
+	url = https://github.com/TagsRocks/UnityRSCLib.git
